@@ -8,6 +8,10 @@ XMLAggregationProcess.java,XMLDataMapping.java,XMLTag.java
 
 XMLAggregationProcess.java,it's main class to execute the project.
 
+XMLDataMapping.java:This file contains Integer value mapping to parse the file.
+
+XMLTag.java:This file contains for generate the tags.
+
 User can pass the below four files for testing this project and out of this four files,
 if user enters user will get a appropriate error message.
 
